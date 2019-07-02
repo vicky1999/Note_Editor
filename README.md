@@ -1,2 +1,2 @@
-# Note_Editor
+# Note Editor
 A simple Text Editor written in c
