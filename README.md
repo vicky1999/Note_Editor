@@ -1,2 +1,2 @@
 # Note Editor
-A simple Text Editor Application created using c++ and QT5
+A simple Text Editor Application developed using c++ and QT5
